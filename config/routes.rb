@@ -11,7 +11,4 @@ Rails.application.routes.draw do
     match '/events', to: 'events#index', via: [:options]
     resources :events, only: [:create]
   end
-  
-  
-
 end
