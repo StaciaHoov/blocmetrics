@@ -3,6 +3,9 @@ class API::EventsController < ApplicationController
     
     before_filter :set_access_control_headers
     
+    def index
+    end
+    
     def set_access_control_headers
         headers['Access-Control-Allow-Origin'] = '*' # allow requests from any origin.
         headers['Access-Control-Allow-Methods'] = 'POST, GET, OPTIONS' #permit the POST, GET, OPTIONS request methods.
