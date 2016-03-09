@@ -1,3 +1,14 @@
+# Add configuration values here, as shown below.
+#
+# pusher_app_id: "2954"
+# pusher_key: 7381a978f7dd7f9a1117
+# pusher_secret: abdc3b896a0ffb85d373
+# stripe_api_key: sk_test_2J0l093xOyW72XUYJHE4Dv2r
+# stripe_publishable_key: pk_test_ro9jV5SNwGb1yYlQfzG17LHK
+#
+# production:
+#   stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV9H
+#   stripe_publishable_key: pk_live_9lcthxpSIHbGwmdO941O1XVU
 SENDGRID_PASSWORD: bpgsqzyh6309
 SENDGRID_USERNAME: app41638563@heroku.com
 SECRET_KEY_BASE: 680a75228f027c745ae4b1951ea1db9365f175a561bb5f20a57cecf1455358c414b5a60216b8db0ff8bd5f57e7d5a32e43e4c7531167537c0c4251c43fad6153
