@@ -1,24 +1,21 @@
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+
+## Web Analytics API
+A tool for tracking events on websites. Integrates with web apps to track user activity and report results.
 
 
-Welcome to your Rails project on Cloud9 IDE!
+## Technologies    
+Languages, Libraries, and Frameworks:    
+* Ruby on Rails
+* Bootstrap   
 
-To get started, just do the following:
+Databases: 
+* SQLite (Test, Development)
+* PostgreSQL (Production)   
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://blocmetrics-staciahoov.c9.io/).
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+Development Tools, Gems and Methodologies:       
+* Faker for database seeding        
+* Figaro to manage sensitive information        
+* Devise for user authentication        
+* Chartkick for JavaScript charts
+* Groupdate for grouping temporal data
